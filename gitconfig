@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jhmluna@gmail.com
+	name = Henrique Luna
